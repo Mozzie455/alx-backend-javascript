@@ -1,0 +1,8 @@
+{
+  "name": "0x00-es6_basic",
+  "scripts": {
+    "start": "node src/start.js"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
