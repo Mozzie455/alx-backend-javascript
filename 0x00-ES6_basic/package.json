@@ -1,7 +1,7 @@
 {
   "name": "0x00-es6_basic",
   "scripts": {
-    "start": "node src/start.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
   "version": "1.0.0"
